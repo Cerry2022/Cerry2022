@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**Cerry2022/Cerry2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 这是什么？
 
-Here are some ideas to get you started:
+- 仓库名：vitepress-demo-mondaylab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 用途：vitepress开箱即用demo
+
+# 如何运行？
+
+开发环境：
+- pnpm run docs:dev
+
+生产环境：
+- pnpm run docs:build
+- sh ./vitepress-starter/deploy.sh
+
+# 具体搭建步骤？
+
+[vitepress从0到1，让每个前后端小伙伴都拥有一个属于自己的博客](https://github.com/Jacqueline712/mondaylab-blog/blob/master/docs/column/FrontEnd/VUE/009_vitepress_blog.md)
