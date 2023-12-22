@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vitepress": "1.0.0-alpha.65"
+    "vitepress": "^1.0.0-alpha.65"
   },
   "pnpm": {
     "peerDependencyRules": {
@@ -21,5 +21,8 @@
         "@algolia/client-search"
       ]
     }
+  },
+  "dependencies": {
+    "yarn": "^1.22.21"
   }
 }
